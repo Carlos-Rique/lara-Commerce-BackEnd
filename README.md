@@ -1,5 +1,3 @@
-## Desenvolvido em Laravel
-
 ## Instalação de dependências
 
 composer install
@@ -12,6 +10,6 @@ php artisan migrate
 
 php artisan db:seed
 
-## License
+## Para iniciar um servidor de desenvolvimento
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+php artisan serve
